@@ -29,7 +29,7 @@
     "react-paystack": "^4.0.1",
     "react-phone-number-input": "^3.2.4",
     "react-redux": "^8.0.2",
-    "react-remita": "^1.0.0",
+    "react-remita": "^1.1.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "rehype-raw": "^6.1.1",

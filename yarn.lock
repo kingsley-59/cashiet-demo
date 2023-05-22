@@ -8604,10 +8604,10 @@ react-refresh@^0.11.0:
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.11.0.tgz#77198b944733f0f1f1a90e791de4541f9f074046"
   integrity sha512-F27qZr8uUqwhWZboondsPx8tnC3Ct3SxZA3V5WyEvujRyyNv0VYPhoBg1gZ8/MV5tubQp76Trw8lTv9hzRBa+A==
 
-react-remita@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-remita/-/react-remita-1.0.0.tgz#1d48f44386bedc7e03aecac8ea1135bc14d799e3"
-  integrity sha512-Jf50aygEEaFoaQEz/hYaUPGGUE31zgluu1sOjFYliFiC5uGti+5Zm3SKudBjyv8FdCw9mZ0WyGxLXaWp1b5s6A==
+react-remita@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-remita/-/react-remita-1.1.0.tgz#088db56954125c7f08632ef0a7bb2161c9c0a19a"
+  integrity sha512-9irmzueX8JJO3aCdOFGM01a1joV7YRUYAeLddkSjef4feNb+J4kolfeTxM1j9xe2WM8KU2qwqIo5rlv2PXNrCQ==
   dependencies:
     "@babel/cli" "^7.12.1"
     "@babel/core" "^7.12.3"
